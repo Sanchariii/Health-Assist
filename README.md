@@ -18,13 +18,10 @@ Health Assist is a web-based application developed using Streamlit framework tha
 
 After inputting the values from the dataset we got correct predictions and the snapshots are given below:
 
-<img width="918" alt="diabetes pred 1" src="./img/diabetes pred 1.png">
+<img width="918" alt="diabetes pred 1" src="https://github.com/Sanchariii/Health-Assist/assets/88083502/0ccb2316-05e2-4991-a6b0-2461540e049b">
 
-<img width="916" alt="diabetes pred" src="./img/diabetes pred.png">
-
-<img width="960" alt="parkinsons pred" src="./img/parkinsons pred.png">
-
-<img width="960" alt="breast cancer pred" src="./img/breast-cancer-prediction.png"> 
+<img width="916" alt="diabetes pred" src="https://github.com/Sanchariii/Health-Assist/assets/88083502/97069b80-358a-48f4-ac5b-f241f82c3b11">
+<img width="960" alt="parkinsons pred" src="https://github.com/Sanchariii/Health-Assist/assets/88083502/777c4a8d-05bb-4c69-8159-7b2e22e40d97">
 
 # Installation
 
