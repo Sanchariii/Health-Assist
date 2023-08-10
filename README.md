@@ -2,7 +2,7 @@
 
 # Introduction
 
-Health Assist is a web-based application developed using Streamlit framework that allows users to input values for certain symptoms and the system will predict if the user have Diabetes , Heart Disease, Parkinson's Disease and Breast cancer. This system aims to assist users in identifying potential diseases quickly and conveniently, promoting early detection and timely medical intervention.
+Health Assist is a web-based application developed using Streamlit framework that allows users to input values for certain symptoms and the system will predict if the user have Diabetes , Heart Disease, Parkinson's Disease and Breast Cancer. This system aims to assist users in identifying potential diseases quickly and conveniently, promoting early detection and timely medical intervention.
 
 # Features
 
