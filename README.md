@@ -24,7 +24,7 @@ After inputting the values from the dataset we got correct predictions and the s
 
 <img width="960" alt="parkinsons pred" src="./img/parkinsons pred.png">
 
-<img width="960" alt="breast cancer pred" src="./img/breast-cancer-prediction.png">
+<img width="960" alt="breast cancer pred" src="./img/breast-cancer-prediction.png"> 
 
 # Installation
 
